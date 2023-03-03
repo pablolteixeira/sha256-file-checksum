@@ -14,4 +14,4 @@ cd sha256-file-checksum
 Execute the program:
 ```shell
 ./target/release/checksum-sha256 <file here>
-``
+```
