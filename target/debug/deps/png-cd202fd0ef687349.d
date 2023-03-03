@@ -1,0 +1,16 @@
+/home/pablo/Desktop/sha256-file-checksum/target/debug/deps/png-cd202fd0ef687349.rmeta: /home/pablo/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/lib.rs /home/pablo/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/chunk.rs /home/pablo/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/common.rs /home/pablo/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/decoder/mod.rs /home/pablo/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/decoder/stream.rs /home/pablo/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/decoder/zlib.rs /home/pablo/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/encoder.rs /home/pablo/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/filter.rs /home/pablo/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/srgb.rs /home/pablo/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/text_metadata.rs /home/pablo/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/traits.rs /home/pablo/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/utils.rs
+
+/home/pablo/Desktop/sha256-file-checksum/target/debug/deps/png-cd202fd0ef687349.d: /home/pablo/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/lib.rs /home/pablo/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/chunk.rs /home/pablo/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/common.rs /home/pablo/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/decoder/mod.rs /home/pablo/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/decoder/stream.rs /home/pablo/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/decoder/zlib.rs /home/pablo/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/encoder.rs /home/pablo/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/filter.rs /home/pablo/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/srgb.rs /home/pablo/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/text_metadata.rs /home/pablo/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/traits.rs /home/pablo/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/utils.rs
+
+/home/pablo/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/lib.rs:
+/home/pablo/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/chunk.rs:
+/home/pablo/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/common.rs:
+/home/pablo/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/decoder/mod.rs:
+/home/pablo/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/decoder/stream.rs:
+/home/pablo/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/decoder/zlib.rs:
+/home/pablo/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/encoder.rs:
+/home/pablo/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/filter.rs:
+/home/pablo/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/srgb.rs:
+/home/pablo/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/text_metadata.rs:
+/home/pablo/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/traits.rs:
+/home/pablo/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.17.7/src/utils.rs:
